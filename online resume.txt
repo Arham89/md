@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MD Arham - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 28px;
+            color: #333;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #555;
+        }
+
+        p {
+            font-size: 16px;
+            color: #777;
+        }
+
+        a {
+            text-decoration: none;
+            color: #0077b5;
+        }
+
+        .linkedin {
+            display: inline-block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MD Arham</h1>
+        <p>Web Developer</p>
+        <div class="linkedin">
+            <a href="https://www.linkedin.com/in/md-arham-370181253" target="_blank">LinkedIn Profile</a>
+        </div>
+        <hr>
+        <h2>Education</h2>
+        <p>Bachelor of commerce</p>
+        <p>Calcutta University , 2019 - 2022</p>
+
+     
+        <h3>Web Developer</h3>
+        <p>ABC Web Solutions, Example City, 2022 - Present</p>
+        <ul>
+            <li>Developed and maintained websites using HTML, CSS, and JavaScript.</li>
+            <li>Collaborated with clients to gather requirements and provide technical solutions.</li>
+        </ul>
+
+        <h3>Software Engineer</h3>
+        <p>Fresher</p>
+        
+
+
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            
+        </ul>
+
+        <h2>Contact Information</h2>
+        <p>Email: mdarham8106@gmail.com</p>
+        <p>Phone: (91) 8873996025</p>
+        <p>Linkdin id: https://www.linkedin.com/in/md-arham-370181253
+        </p>
+    </div>
+</body>
+</html>
